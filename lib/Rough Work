@@ -1,0 +1,6 @@
+GestureDetector(
+            onTap: () {
+              Get.toNamed(RouteHelper.getPopularFood());
+            },
+
+child:
